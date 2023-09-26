@@ -1,6 +1,7 @@
-import {AppBar, Button, Toolbar } from '@mui/material';
+import {AppBar, Button, Toolbar, Typography } from '@mui/material';
 import "./Navbar.css"
 import CartWidget from "../CartWidget/CartWidget"
+import { NavLink } from 'react-router-dom';
 
 
 const Navbar = () =>{
@@ -8,10 +9,18 @@ const Navbar = () =>{
         <Toolbar sx={{backgroundColor: "black"}}>
                 <h1>G-SetUp</h1>
                 <div className="div-buttons">
-                <Button className='buttons'>Inicio</Button>
-                <Button className='buttons'>Categorias</Button>
-                <Button className='buttons'>Productos</Button>
-                <Button className='buttons'>Contacto</Button>
+                    <NavLink className='buttons' to='/'>
+                        <Typography>Inicio</Typography>
+                    </NavLink>
+                    <NavLink className='buttons' to='/categories'>
+                        <Typography>Categorias</Typography>
+                    </NavLink>
+                    <NavLink className='buttons' to='/products'>
+                        <Typography>Productos</Typography>
+                    </NavLink>
+                    <NavLink className='buttons'>
+                        <Typography>Contacto</Typography>
+                    </NavLink>
                 </div>
                 <div className='div-widget'>
                 <CartWidget></CartWidget>

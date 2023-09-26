@@ -1,12 +1,13 @@
-    .div-buttons{
+.div-buttons{
         width: 70%;
         padding-left: 5vw;
-        
+        display: flex;
     }
     .div-buttons .buttons{
         color: white;
         border: 2px;
         margin-left: 3vw;
+        text-decoration: none
     }
     .div-buttons .buttons:hover{
         background-color: rgba(255, 255, 255, 0.329);
