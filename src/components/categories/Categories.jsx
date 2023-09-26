@@ -15,7 +15,7 @@ const Categories = () =>{
         data.map((category)=>{
             return(
                 <Card key={category.id}>
-                    <CardContent component={Link} to={'/category/${category.category}'}> 
+                    <CardContent component={Link} to={`/category/${category.category}`}> 
                         <Typography>{category.category}</Typography>
                     </CardContent>
                 </Card>

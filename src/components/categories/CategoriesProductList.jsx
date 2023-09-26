@@ -12,7 +12,7 @@ const CategoriesProductList = () => {
 
     const categorySelected = data.filter(category => category.category.toLowerCase() === categoryId.toLocaleLowerCase() )
     return(
-        <div>
+        <div className="container">
             <Grid container spacing={3}></Grid>
             {categorySelected.map((product)=>{
                 return <ProductDetail key={product.id} product={product}/>
