@@ -1,6 +1,6 @@
 import React from "react";
 import { useCartContext } from "../context/Cartcontext";
-import {Paper, Table, TableBody, TableCell, TableContainer, TableHead, TableRow, Typography} from "@mui/material";
+import {Button, Paper, Table, TableBody, TableCell, TableContainer, TableHead, TableRow, Typography} from "@mui/material";
 
 
 const Cart = () => {
@@ -39,6 +39,9 @@ const Cart = () => {
                                 <TableRow>
                                     <TableCell colSpan={3}>Total:</TableCell>
                                     <TableCell>${cart.total.toFixed(2)}</TableCell>
+                                </TableRow>
+                                <TableRow>
+                                    <TableCell>Finalizar Pedido</TableCell>
                                 </TableRow>
                             </TableBody>
                         </Table>

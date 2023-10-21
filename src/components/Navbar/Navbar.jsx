@@ -21,10 +21,13 @@ const Navbar = () =>{
                     <NavLink className='buttons'>
                         <Typography>Contacto</Typography>
                     </NavLink>
-                </div>
-                <div className='div-widget'>
+                    <div className='div-widget'>
+                <NavLink className='buttons' to='/Cart'>
                 <CartWidget></CartWidget>
+                </NavLink>
                 </div>
+                </div>
+                
         </Toolbar>
     </AppBar>)
 }

@@ -1,5 +1,5 @@
 .div-buttons{
-        width: 70%;
+        width: 80%;
         padding-left: 5vw;
         display: flex;
     }
@@ -15,7 +15,7 @@
     }
 
     .div-widget{
-        width: 12%;
+        width: 90%;
         display: flex;
         justify-content: flex-end;
     }
