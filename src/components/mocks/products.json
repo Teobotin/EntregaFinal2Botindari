@@ -1,106 +1,118 @@
 [
     {
         "id": 1,
-        "image": "product1.jpg",
+        "image": "https://www.pcfactory.cl/public/foto/39164/2_1000.jpg?t=1618409237000",
         "title": "Product1",
         "price": "249.99",
         "category": "teclados",
         "ItHasDues": true,
-        "IsAnOffer": true
+        "IsAnOffer": true,
+        "stock": 8
     },
     {
         "id": 2,
-        "image": "product2.jpg",
+        "image": "https://app.contabilium.com/files/explorer/16277/Productos-Servicios/concepto-5510243.jpg",
         "title": "Product2",
         "price": "502.75",
         "category": "ratones",
         "ItHasDues": false,
-        "IsAnOffer": false
+        "IsAnOffer": false,
+        "stock": 5
     },
     {
         "id": 3,
-        "image": "product3.jpg",
+        "image": "https://m.media-amazon.com/images/I/51a19e9fVKL.jpg",
         "title": "Product3",
         "price": "749.40",
         "category": "auriculares",
         "ItHasDues": true,
-        "IsAnOffer": true
+        "IsAnOffer": true,
+        "stock": 3
     },
     {
         "id": 4,
-        "image": "product4.jpg",
+        "image": "https://www.pcfactory.cl/public/foto/39164/2_1000.jpg?t=1618409237000",
         "title": "Product4",
         "price": "288.60",
         "category": "teclados",
         "ItHasDues": false,
-        "IsAnOffer": false
+        "IsAnOffer": false,
+        "stock": 12
     },
     {
         "id": 5,
-        "image": "product5.jpg",
+        "image": "https://app.contabilium.com/files/explorer/16277/Productos-Servicios/concepto-5510243.jpg",
         "title": "Product5",
         "price": "675.20",
         "category": "ratones",
         "ItHasDues": true,
-        "IsAnOffer": true
+        "IsAnOffer": true,
+        "stock": 15
     },
     {
         "id": 6,
-        "image": "product6.jpg",
+        "image": "https://m.media-amazon.com/images/I/51a19e9fVKL.jpg",
         "title": "Product6",
         "price": "406.15",
         "category": "auriculares",
         "ItHasDues": false,
-        "IsAnOffer": false
+        "IsAnOffer": false,
+        "stock": 6
     },
     {
         "id": 7,
-        "image": "product7.jpg",
+        "image": "https://www.pcfactory.cl/public/foto/39164/2_1000.jpg?t=1618409237000",
         "title": "Product7",
         "price": "825.30",
         "category": "teclados",
         "ItHasDues": true,
-        "IsAnOffer": true
+        "IsAnOffer": true,
+        "stock": 8
     },
     {
         "id": 8,
-        "image": "product8.jpg",
+        "image": "https://app.contabilium.com/files/explorer/16277/Productos-Servicios/concepto-5510243.jpg",
         "title": "Product8",
         "price": "311.45",
         "category": "ratones",
         "ItHasDues": false,
-        "IsAnOffer": false
+        "IsAnOffer": false,
+        "stock": 10
     },
     {
         "id": 9,
-        "image": "product9.jpg",
+        "image": "https://m.media-amazon.com/images/I/51a19e9fVKL.jpg",
         "title": "Product9",
         "price": "450.80",
         "category": "auriculares",
         "ItHasDues": true,
-        "IsAnOffer": true
+        "IsAnOffer": true,
+        "stock": 3
+
     },
     {
         "id": 10,
-        "image": "product10.jpg",
+        "image": "https://www.pcfactory.cl/public/foto/39164/2_1000.jpg?t=1618409237000",
         "title": "Product10",
         "price": "934.10",
         "category": "teclados",
         "ItHasDues": false,
-        "IsAnOffer": false
+        "IsAnOffer": false,
+        "stock": 4
     },
     {
         "id": 11,
-        "image": "product11.jpg",
+        "image": "https://app.contabilium.com/files/explorer/16277/Productos-Servicios/concepto-5510243.jpg",
         "title": "Product11",
         "price": "223.25",
         "category": "ratones",
         "ItHasDues": true,
-        "IsAnOffer": true
+        "IsAnOffer": true,
+        "stock": 14
     },
     {
         "id": 12,
-        "image": "product12.jpg",
+        "image": "https://m.media-amazon.com/images/I/51a19e9fVKL.jpg",
         "title": "Product12",
         "price": "555.70",
         "category": "auriculares",
@@ -109,74 +121,82 @@
     },
     {
         "id": 13,
-        "image": "product13.jpg",
+        "image": "https://www.pcfactory.cl/public/foto/39164/2_1000.jpg?t=1618409237000",
         "title": "Product13",
         "price": "679.90",
         "category": "teclados",
         "ItHasDues": true,
-        "IsAnOffer": true
+        "IsAnOffer": true,
+        "stock": 13
     },
     {
         "id": 14,
-        "image": "product14.jpg",
+        "image": "https://app.contabilium.com/files/explorer/16277/Productos-Servicios/concepto-5510243.jpg",
         "title": "Product14",
         "price": "201.10",
         "category": "ratones",
         "ItHasDues": false,
-        "IsAnOffer": false
+        "IsAnOffer": false,
+        "stock": 18
     },
     {
         "id": 15,
-        "image": "product15.jpg",
+        "image": "https://m.media-amazon.com/images/I/51a19e9fVKL.jpg",
         "title": "Product15",
         "price": "788.55",
         "category": "auriculares",
         "ItHasDues": true,
-        "IsAnOffer": true
+        "IsAnOffer": true,
+        "stock": 4
     },
     {
         "id": 16,
-        "image": "product16.jpg",
+        "image": "https://www.pcfactory.cl/public/foto/39164/2_1000.jpg?t=1618409237000",
         "title": "Product16",
         "price": "419.40",
         "category": "teclados",
         "ItHasDues": false,
-        "IsAnOffer": false
+        "IsAnOffer": false,
+        "stock": 5
     },
     {
         "id": 17,
-        "image": "product17.jpg",
+        "image": "https://app.contabilium.com/files/explorer/16277/Productos-Servicios/concepto-5510243.jpg",
         "title": "Product17",
         "price": "943.75",
         "category": "ratones",
         "ItHasDues": true,
-        "IsAnOffer": true
+        "IsAnOffer": true,
+        "stock": 9
     },
     {
         "id": 18,
-        "image": "product18.jpg",
+        "image": "https://m.media-amazon.com/images/I/51a19e9fVKL.jpg",
         "title": "Product18",
         "price": "377.20",
         "category": "auriculares",
         "ItHasDues": false,
-        "IsAnOffer": false
+        "IsAnOffer": false,
+        "stock": 13
     },
     {
         "id": 19,
-        "image": "product19.jpg",
+        "image": "https://www.pcfactory.cl/public/foto/39164/2_1000.jpg?t=1618409237000",
         "title": "Product19",
         "price": "622.05",
         "category": "teclados",
         "ItHasDues": true,
-        "IsAnOffer": true
+        "IsAnOffer": true,
+        "stock": 16
     },
     {
         "id": 20,
-        "image": "product20.jpg",
+        "image": "https://app.contabilium.com/files/explorer/16277/Productos-Servicios/concepto-5510243.jpg",
         "title": "Product20",
         "price": "268.90",
         "category": "ratones",
         "ItHasDues": false,
-        "IsAnOffer": false
+        "IsAnOffer": false,
+        "stock": 11
     }
 ]

@@ -1,3 +1,25 @@
 .container{
     margin: 120px 90px 0px 90px;;
+    
+}
+.product{
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.bienvenidos{
+    text-align: center;
+}
+.cartel{
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    padding: 20px;
 }

@@ -3,7 +3,6 @@ import useAsyncMock from "../hooks/useAsyncMock";
 import products from '../mocks/products.json'
 import ProductDetail from './ProductDetail';
 
-
 const ProductList = () =>{
     const {data, loading} = useAsyncMock(products)
 
@@ -24,7 +23,7 @@ const ProductList = () =>{
                     })
                 }
             </Grid>
-        </div>
+    </div>
     )
 }
 

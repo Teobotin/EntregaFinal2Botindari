@@ -1,4 +1,4 @@
-import {Card, CardContent, Typography, CircularProgress } from '@mui/material'
+import {Card, CardContent, CircularProgress, Typography,} from '@mui/material'
 import categories from '../mocks/categorias.json'
 import useAsyncMock from '../hooks/useAsyncMock'
 import { Link } from 'react-router-dom'
